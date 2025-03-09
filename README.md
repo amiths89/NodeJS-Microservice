@@ -35,7 +35,7 @@ Here's how to use the application:
   "name": "LAPTOP"
 }
 ```
-And when creating the POST request make sure to the header key value(key= Content-Type and value= application/json)
+And when creating the POST request make sure to the add header key value(key=Content-Type and value=application/json)
 
 4.  Open a browser and enter the URL http://localhost:3002/api/products for sending a GET request to see the result.
 5.  There is also another POST request for orders. You can explore the code and figure it out.
