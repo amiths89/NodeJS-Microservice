@@ -34,7 +34,7 @@ Here's how to use the application:
   "product_id": 2,
   "name": "DELL"
 }
-'''
+```
 
 4.  Open a browser and enter the URL http://localhost:3002/api/products for sending a GET request to see the result.
 5.  There is also another POST request for orders. You can explore the code and figure it out.
