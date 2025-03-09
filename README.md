@@ -18,9 +18,6 @@ To run the project, follow these steps:
 2.  Run the following commands and repeat in all the services inlcuding the communictor(However mongodb and mongoose is required only for certain services in this example):
     ```bash
     npm install axios express mongodb mongoose
-    ```
-3.  Install dev dependancy:
-    ```bash
     npm install --save-dev nodemon
     ```
 
@@ -36,4 +33,5 @@ Here's how to use the application:
   "product_id": 2,
   "name": "DELL"
 }
-4. There is also another POST request for orders. You can explore the code and figure it out.
+4. Open a browser and enter the URL http://localhost:3002/api/products for sending a GET request to see the result.
+5. There is also another POST request for orders. You can explore the code and figure it out.
