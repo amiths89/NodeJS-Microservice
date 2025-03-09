@@ -32,7 +32,7 @@ Here's how to use the application:
 ```json
 {
   "product_id": 2,
-  "name": "DELL"
+  "name": "LAPTOP"
 }
 ```
 
