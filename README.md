@@ -13,7 +13,7 @@ To run the project, follow these steps:
 
 1.  Clone the repository:
     ```bash
-    git clone [[https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)](https://github.com/amiths89/NodeJS-Microservice.git)
+    git clone git@github.com:amiths89/NodeJS-Microservice.git
     ```
 2.  Run the following commands and repeat in all the services inlcuding the communictor(However mongodb and mongoose is required only for certain services in this example):
     ```bash
